@@ -1,0 +1,36 @@
+{
+  "devDependencies": {
+    "@types/node": "^26.1.1",
+    "@types/react": "^19.2.17",
+    "typescript": "^7.0.2"
+  },
+  "name": "ai-sandbox-generator",
+  "version": "1.0.0",
+  "description": "AI-powered sandbox code generator with multi-agent orchestration, self-healing, and GitHub integration",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "csstype": "^3.2.3",
+    "next": "^16.2.10",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "undici-types": "^8.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craighindle5-peckerwood23/ai-sandbox-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/craighindle5-peckerwood23/ai-sandbox-generator/issues"
+  },
+  "homepage": "https://github.com/craighindle5-peckerwood23/ai-sandbox-generator#readme"
+}
